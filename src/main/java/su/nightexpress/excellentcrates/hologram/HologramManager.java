@@ -24,6 +24,7 @@ import su.nightexpress.nightcore.util.Plugins;
 import su.nightexpress.nightcore.util.placeholder.Replacer;
 
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 
 public class HologramManager extends AbstractManager<CratesPlugin> {
 
